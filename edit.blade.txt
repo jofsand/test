@@ -14,9 +14,9 @@
                 <div>
                     <img src="{{ asset('storage/posts/'.$post->foto) }}" class="rounded" alt="" style="margin: 10px; width: 200px; height: 200px">
                 </div>
-                <h4>Orientasi</h4>
+                <h4>ambatukam</h4>
                 <p>{{ $post->orientasi }}</p>
-                <h4>Peristiwa Penting</h4>
+                <h4>oh my god</h4>
                 <p>{{ $post->peristiwapenting }}</p>
                 <h4>Riorientasi</h4>
                 <p>{{ $post->riorientasi }}</p>
